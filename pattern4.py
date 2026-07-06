@@ -4,4 +4,4 @@ def pattern4(n):
             print(i , end = ' ')
         print()
 
-pattern4(5)
+pattern4(4)
